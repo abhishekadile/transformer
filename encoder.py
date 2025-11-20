@@ -1,0 +1,3 @@
+"""
+Encoder block and stack
+"""
